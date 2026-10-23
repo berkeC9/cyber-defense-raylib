@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CyberDefense/CyberDefense.vcxproj" Id="328268e9-9149-4dc0-b874-94f96324fb6d" />
+</Solution>
